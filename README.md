@@ -10,7 +10,7 @@ This project [stands on the shoulders of giants](https://sdiy.info/wiki/Atari_Pu
 This project is open hardware under the [CERN-OHL-S](https://gitlab.com/ohwr/project/cernohl/-/wikis/uploads/b236492596cfc91c12def7d50bbf7da0/cern_ohl_s_v2.pdf) license.
 
 ## Naming your Project(s)
-I claim no trademark to the terms "APC", "Atari Punk Console", or (of course) "Atari".
+I claim no trademark to the terms "APC", "Atari Punk Console", or (of course) "Atari". You do you.
 
 ## Sharing your Project(s)
 You are free to sell your own variations, but remember that this module is open hardware under the [CERN-OHL-S](https://gitlab.com/ohwr/project/cernohl/-/wikis/uploads/819d71bea3458f71fba6cf4fb0f2de6b/cern_ohl_s_v2.txt) license. This is a "strongly reciprocal" license, so you are required to share any changes, or an entire "combined work", as open hardware under the same license.
