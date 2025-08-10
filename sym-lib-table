@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "TLC556CDR")(type "KiCad")(uri "${KIPRJMOD}/TLC556CDR/TLC556CDR.kicad_sym")(options "")(descr ""))
+)
