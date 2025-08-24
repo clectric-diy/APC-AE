@@ -1,0 +1,6 @@
+title: "APC-AE"
+description: "APC-AE is a hardware synth module, based on the Atari Punk Console (APC), designed for the AE Modular format."
+remote_theme: pages-themes/architect@v0.2.0
+plugins:
+- jekyll-remote-theme
+show_downloads: false
